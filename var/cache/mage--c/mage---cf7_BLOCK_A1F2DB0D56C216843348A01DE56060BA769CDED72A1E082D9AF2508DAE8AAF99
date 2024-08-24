@@ -1,0 +1,461 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724495044;s:6:"expire";i:1724581444;s:4:"tags";s:94:"cf7_CAT_P,cf7_BLOCK_HTML,cf7_CAT_P_19,cf7_CAT_P_6,cf7_CAT_P_5,cf7_CAT_P_4,cf7_CAT_P_3,cf7_MAGE";}
+        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost.magento2.com/giay-bong-chuy-n-wave-lightning-z7-mid.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-19">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost.magento2.com/media/catalog/product/cache/e705624989727279f6cd366d7456b6bf/g/i/giaybongchuyen_1.jpeg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Gi&#xE0;y&#x20;b&#xF3;ng&#x20;chuy&#x1EC1;n&#x20;WAVE&#x20;LIGHTNING&#x20;Z7&#x20;MID"/></span>
+</span>
+<style>.product-image-container-19 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-19 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-19 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Giày bóng chuyền WAVE LIGHTNING Z7 MID"
+                                       href="http://localhost.magento2.com/giay-bong-chuy-n-wave-lightning-z7-mid.html"
+                                       class="product-item-link">
+                                        Giày bóng chuyền WAVE LIGHTNING Z7 MID                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="19" data-price-box="product-id-19">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-19-widget-product-grid"                data-price-amount="150"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$150.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Giày bóng chuyền" action="http://localhost.magento2.com/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y/product/19/" method="post">
+                                                            <input type="hidden" name="product" value="19">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyeHZZMkZzYUc5emRDNXRZV2RsYm5Sdk1pNWpiMjB2UDNCeGNYcDFkejB5L3Byb2R1Y3QvMTkv">
+                                                            <input name="form_key" type="hidden" value="CTNuXZLu2ojIerXv" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "Gi\u00E0y\u0020b\u00F3ng\u0020chuy\u1EC1n"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost.magento2.com\/wishlist\/index\/add\/","data":{"product":19,"uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost.magento2.com\/catalog\/product_compare\/add\/","data":{"product":"19","uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost.magento2.com/baohanh6thang.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-6">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost.magento2.com/media/catalog/product/cache/e705624989727279f6cd366d7456b6bf/b/a/baohanh6thang.png"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="G&#xF3;i&#x20;b&#x1EA3;o&#x20;h&#xE0;nh&#x20;6&#x20;th&#xE1;ng"/></span>
+</span>
+<style>.product-image-container-6 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-6 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-6 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Gói bảo hành 6 tháng"
+                                       href="http://localhost.magento2.com/baohanh6thang.html"
+                                       class="product-item-link">
+                                        Gói bảo hành 6 tháng                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$5.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Gói bảo hành" action="http://localhost.magento2.com/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y/product/6/" method="post">
+                                                            <input type="hidden" name="product" value="6">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyeHZZMkZzYUc5emRDNXRZV2RsYm5Sdk1pNWpiMjB2UDNCeGNYcDFkejB5L3Byb2R1Y3QvNi8~">
+                                                            <input name="form_key" type="hidden" value="CTNuXZLu2ojIerXv" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "G\u00F3i\u0020b\u1EA3o\u0020h\u00E0nh"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost.magento2.com\/wishlist\/index\/add\/","data":{"product":6,"uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost.magento2.com\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost.magento2.com/bo-quan-ao-the-thao.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-5">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost.magento2.com/media/catalog/product/cache/e705624989727279f6cd366d7456b6bf/s/e/setao_1.jpeg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="B&#x1ED9;&#x20;qu&#x1EA7;n&#x20;&#xE1;o&#x20;th&#x1EC3;&#x20;thao&#x20;nam&#x20;cao&#x20;c&#x1EA5;p&#x20;LADOS"/></span>
+</span>
+<style>.product-image-container-5 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-5 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-5 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Bộ quần áo thể thao nam cao cấp LADOS"
+                                       href="http://localhost.magento2.com/bo-quan-ao-the-thao.html"
+                                       class="product-item-link">
+                                        Bộ quần áo thể thao nam cao cấp LADOS                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="5" data-price-box="product-id-5">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-5-widget-product-grid"                data-price-amount="33"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$33.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Bộ quần áo thể thao-1" action="http://localhost.magento2.com/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y/product/5/" method="post">
+                                                            <input type="hidden" name="product" value="5">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyeHZZMkZzYUc5emRDNXRZV2RsYm5Sdk1pNWpiMjB2UDNCeGNYcDFkejB5L3Byb2R1Y3QvNS8~">
+                                                            <input name="form_key" type="hidden" value="CTNuXZLu2ojIerXv" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "B\u1ED9\u0020qu\u1EA7n\u0020\u00E1o\u0020th\u1EC3\u0020thao\u002D1"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost.magento2.com\/wishlist\/index\/add\/","data":{"product":5,"uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost.magento2.com\/catalog\/product_compare\/add\/","data":{"product":"5","uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost.magento2.com/nhomthethao.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-4">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost.magento2.com/media/catalog/product/cache/e705624989727279f6cd366d7456b6bf/s/e/setao.jpeg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="B&#x1ED9;&#x20;qu&#x1EA7;n&#x20;&#xE1;o&#x20;th&#x1EC3;&#x20;thao&#x20;nam&#x20;cap&#x20;c&#x1EA5;p&#x20;LADOS"/></span>
+</span>
+<style>.product-image-container-4 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-4 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-4 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Bộ quần áo thể thao nam cap cấp LADOS"
+                                       href="http://localhost.magento2.com/nhomthethao.html"
+                                       class="product-item-link">
+                                        Bộ quần áo thể thao nam cap cấp LADOS                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="4" data-price-box="product-id-4"><div class="price-box">
+        <p class="minimal-price">
+        <span class="price-label">Starting at</span>
+
+<span class="price-container tax&#x20;weee"
+        >
+        <span                 data-price-amount="15"
+        data-price-type=""
+        class="price-wrapper "
+    ><span class="price">$15.00</span></span>
+        </span>
+    </p>
+    </div>
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Bộ quần áo thể thao" action="http://localhost.magento2.com/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y/product/4/" method="post">
+                                                            <input type="hidden" name="product" value="4">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyeHZZMkZzYUc5emRDNXRZV2RsYm5Sdk1pNWpiMjB2UDNCeGNYcDFkejB5L3Byb2R1Y3QvNC8~">
+                                                            <input name="form_key" type="hidden" value="CTNuXZLu2ojIerXv" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "B\u1ED9\u0020qu\u1EA7n\u0020\u00E1o\u0020th\u1EC3\u0020thao"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost.magento2.com\/wishlist\/index\/add\/","data":{"product":4,"uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost.magento2.com\/catalog\/product_compare\/add\/","data":{"product":"4","uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost.magento2.com/aothethao.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-3">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost.magento2.com/media/catalog/product/cache/e705624989727279f6cd366d7456b6bf/a/o/ao.jpeg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="&#xC1;o&#x20;th&#x1EC3;&#x20;thao&#x20;nam&#x20;cao&#x20;c&#x1EA5;p&#x20;LADOS"/></span>
+</span>
+<style>.product-image-container-3 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-3 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-3 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Áo thể thao nam cao cấp LADOS"
+                                       href="http://localhost.magento2.com/aothethao.html"
+                                       class="product-item-link">
+                                        Áo thể thao nam cao cấp LADOS                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="3" data-price-box="product-id-3">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-3-widget-product-grid"                data-price-amount="20"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$20.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Áo thể thao" action="http://localhost.magento2.com/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y/product/3/" method="post">
+                                                            <input type="hidden" name="product" value="3">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0RvdkwyeHZZMkZzYUc5emRDNXRZV2RsYm5Sdk1pNWpiMjB2UDNCeGNYcDFkejB5L3Byb2R1Y3QvMy8~">
+                                                            <input name="form_key" type="hidden" value="CTNuXZLu2ojIerXv" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "\u00C1o\u0020th\u1EC3\u0020thao"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost.magento2.com\/wishlist\/index\/add\/","data":{"product":3,"uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost.magento2.com\/catalog\/product_compare\/add\/","data":{"product":"3","uenc":"aHR0cDovL2xvY2FsaG9zdC5tYWdlbnRvMi5jb20vP3BxcXp1dz0y"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+            
+        <div class="pager">
+    
+                <p class="toolbar-amount">
+            <span class="toolbar-number">
+                            Items 6 to 10 of 10 total                        </span>
+        </p>
+        
+                <div class="pages">
+            <strong class="label pages-label" id="paging-label">Page</strong>
+            <ul class="items pages-items" aria-labelledby="paging-label">
+                            <li class="item pages-item-previous">
+                                        <a class="action&#x20; previous"
+                       href="http://localhost.magento2.com/"
+                       title="Previous">
+                        <span class="label">Page</span>
+                        <span>Previous</span>
+                    </a>
+                </li>
+            
+            
+            
+                                                <li class="item">
+                        <a href="http://localhost.magento2.com/" class="page">
+                            <span class="label">Page</span>
+                            <span>1</span>
+                        </a>
+                    </li>
+                                                                <li class="item current">
+                        <strong class="page">
+                            <span class="label">You&#039;re currently reading page</span>
+                            <span>2</span>
+                        </strong>
+                    </li>
+                            
+            
+            
+                        </ul>
+        </div>
+        
+    
+        </div>
+    
+        </div>
+    </div>

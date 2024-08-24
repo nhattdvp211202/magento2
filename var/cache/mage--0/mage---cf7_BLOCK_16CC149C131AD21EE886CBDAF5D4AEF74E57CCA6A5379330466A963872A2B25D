@@ -1,0 +1,6 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1724495035;s:6:"expire";i:1724498635;s:4:"tags";s:93:"cf7_BLOCK_HTML,cf7_CAT_C,cf7_CAT_C_3,cf7_CAT_C_4,cf7_CAT_C_5,cf7_CAT_C_6,cf7_CAT_C_7,cf7_MAGE";}
+
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first level-top"><a href="http://localhost.magento2.com/ao.html"  class="level-top" ><span>Áo</span></a></li><li  class="level0 nav-2 category-item level-top"><a href="http://localhost.magento2.com/quan.html"  class="level-top" ><span>Quần</span></a></li><li  class="level0 nav-3 category-item level-top"><a href="http://localhost.magento2.com/giay.html"  class="level-top" ><span>Giày</span></a></li><li  class="level0 nav-4 category-item level-top"><a href="http://localhost.magento2.com/baohanh.html"  class="level-top" ><span>Bảo hành</span></a></li><li  class="level0 nav-5 category-item last level-top"><a href="http://localhost.magento2.com/dongho.html"  class="level-top" ><span>Đồng hồ</span></a></li>            </ul>
+</nav>
